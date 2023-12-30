@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>KuzhinaDaka</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="styleguide.css" />
+    <link rel="stylesheet" href="style.css" />
+
+
+
+
+  </head>
+  <body>
+    
+
+  
+    <div class="line"></div>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+   
+    <div class="custom-div"></div>
+
+    
+    <div class="frame">
+
+      <div class="overlap">
+        <div class="">
+          <div class="liste-item"></div>
+          <div class="symboll"></div>
+          <div class="div"></div>
+          <div class="text-wrapper"></div>
+        </div>
+        <div class="frame-wrapper">
+          <div class="overlap-group-wrapper">
+            <div class="overlap-group">
+              <img class="removebg" src="img/daka11-removebg-preview-1.png" />
+              <div class="text-wrapper-2">KUZHINA</div>
+              <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Skranji:wght@400;700&display=swap" rel="stylesheet">
+              <div class="div-wrapper"><div class="text-wrapper-3">QEBAPTORE</div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="article">
+        <div class="overlap-group-2">
+          <div class="text-wrapper-4">-Schweppes</div>
+          <div class="text-wrapper-5">-Uji i gazuar</div>
+          <div class="text-wrapper-6">-Fanta</div>
+          <p class="coca-cola-coca-cola">-Coca cola<br /><br />-Coca cola pa sheqer</p>
+        </div>
+      </div>
+     
+      <div class="overlap-wrapper">
+        <div class="overlap-2">
+          <div class="text-wrapper-7">-Ujë</div>
+          <div class="text-wrapper-8">-Çaj i ftoht</div>
+          <div class="text-wrapper-9">-Lëng molle</div>
+          <div class="text-wrapper-10">-Lëng pjeshke</div>
+          <div class="text-wrapper-11">-Ajran</div>
+        </div>
+        
+      </div>
+      <div class="pijet">
+        <div class="pije-te-gazuar">Pije Te Gazuar</div>
+        <div class="heading-starters">Pijet</div>
+        <div class="pije-t-pa-gazuar">Pije Të Pa Gazuar</div>
+      </div>
+      <div class="orangeline" style="width: 1982px; height: 0px; border: 10px #F77F00 solid"></div>
+      <img class="screenshot" src="img/screenshot-19-1.png" />
+      <img class="img" src="img/screenshot-19-2.png" />
+      <img class="screenshot-2" src="img/screenshot-19-3.png" />
+      <img class="screenshot-3" src="img/screenshot-19-4.png" />
+      <img class="screenshot-4" src="img/screenshot-19-5.png" />
+      <img class="screenshot-5" src="img/screenshot-19-6.png" />
+      <img class="line" src="img/line-8.svg" />
+      
+      
+      <div class="overlap-3">
+        <div class="div-2">
+          <div class="overlap-4">
+            <div class="div-soups">
+              <div class="article-2">
+                <div class="figur"><img class="link" src="img/link-vxqccghe2ewcswpdykxrvczehi999999-png-3.png" /></div>
+                <div class="text-wrapper-12">Çorbë Viçi</div>
+              </div>
+              
+              <div class="article-3">
+                <div class="link-wrapperr">
+                  <img class="link-2" src="img/link-vxqccghe2ewcswpdykxrvczehi999999-png-2.png" />
+                </div>
+                <div class="orb-pule">Çorbë Pule</div>
+              </div>
+              <div class="article-input">
+                <div class="img-wrapperr">
+                  <img class="link-3" src="img/link-vxqccghe2ewcswpdykxrvczehi999999-png.png" />
+                </div>
+                <div class="box"><img class="line" src="img/line-8.svg" /></div>
+                <div class="text-wrapper-13">Çorbë Shkembe</div>
+              </div>
+              <div class="article-4">
+                <div class="figure-2">
+                  <img class="link-4" src="img/link-xrc35fuc4tv35m6uxdewdjeymm999999-jpeg-2.png" />
+                </div>
+                <div class="text-wrapper-14">Pleskavic Sharri</div>
+              </div>
+              <div class="article-5">
+                <div class="figure-2">
+                  <img class="link-4" src="img/link-xrc35fuc4tv35m6uxdewdjeymm999999-jpeg.png" />
+                </div>
+                <div class="figure-figcaption"><div class="text-wrapper-15">Qebap</div></div>
+              </div>
+              <div class="article-6">
+                <div class="figure-2">
+                  <img class="link-5" src="img/link-qdrsyzn4tquaojzroirpcttt6m999999-png.png" />
+                </div>
+                <div class="pleskavica-wrapper"><div class="pleskavica">Pleskavica</div></div>
+              </div>
+              <div class="article-7">
+                <div class="figure-3">
+                  <img class="link-6" src="img/link-kwastsqaup7jvnlx3nddu3yzuy999999-jpeg.png" />
+                </div>
+                <div class="figure-figcaption-2"><div class="text-wrapper-16">Suxhuk shtëpie</div></div>
+              </div>
+              <div class="article-8">
+                <div class="figure-4">
+                  <img class="link-7" src="img/link-hxdjrs6nf7hb5uapq6smx34cl4999999-jpg.png" />
+                </div>
+                <div class="stek-garnir-wrapper">
+                  <p class="p"><span class="span">Stek - </span> <span class="span">garnir</span></p>
+                </div>
+              </div>
+              <div class="article-9">
+                <div class="figure-2">
+                  <img class="link-8" src="img/link-ayi6xiew4pkn5a3nr66n3gqhhy999999-png.png" />
+                </div>
+                <div class="uvija-garnir-wrapper">
+                  <p class="uvija-garnir">
+                    <span class="span">Uvijaç - </span> <span class="span">garnir<br /></span>
+                  </p>
+                </div>
+              </div>
+              <div class="article-10">
+                <div class="figure-5">
+                  <img class="link-9" src="img/link-tyqikovxjoedqvptfk7aql5hze999999-jpg-2.png" />
+                </div>
+                <div class="figure-figcaption-3">
+                  <p class="keri-sos-garnir">
+                    <span class="text-wrapper-46">keri </span>
+                    <span class="text-wrapper-46">sos </span>
+                    <span class="text-wrapper-46">- </span>
+                    <span class="text-wrapper-46">garnir</span>
+                    
+                  </p>
+                </div>
+              </div>
+              <div class="article-11">
+                <div class="figure-2">
+                  <img class="link-5" src="img/link-tyqikovxjoedqvptfk7aql5hze999999-jpg.png" />
+                </div>
+                <div class="figure-figcaption-3">
+                  <p class="gishta-pule">
+                    <span class="text-wrapper-17">Gishta </span>
+                    <span class="text-wrapper-17">pule<br /></span>
+                  </p>
+                </div>
+              </div>
+              <div class="article-12">
+                <div class="figure-2">
+                  <img class="link-8" src="img/link-adg5epdii5rerqcbco2eiguvpm999999-jpg-2.png" />
+                </div>
+                <div class="rollat-garnir-wrapper">
+                  <p class="rollat-garnir">
+                    <span class="text-wrapper-18">Rollat - </span> <span class="text-wrapper-18">garnir</span>
+                  </p>
+                </div>
+              </div>
+              <div class="article-13">
+                <div class="figure-6">
+                  <img class="link-5" src="img/link-e7n2grxux3qk5vjvjw4e6s2ybq999999-png.png" />
+                </div>
+                <div class="text-wrapper-19">Mish Viçi</div>
+              </div>
+              <div class="article-14">
+                <div class="figure-7">
+                  <img class="link-8" src="img/link-adg5epdii5rerqcbco2eiguvpm999999-jpeg.png" />
+                </div>
+                <div class="figure-figcaption-4"><div class="text-wrapper-20">Musak</div></div>
+                <div class="article-15">
+                  <div class="figure-2">
+                    <img class="link-10" src="img/link-hxdjrs6nf7hb5uapq6smx34cl4999999-jpg-2.png" />
+                  </div>
+                  <div class="figure-figcaption-5">Starters</div>
+                  <div class="figure-figcaption-6">Sold Out!</div>
+                </div>
+              </div>
+              <div class="article-16">
+                <div class="overlap-group-3">
+                  
+                  <img class="link-11" src="img/link-faldjfsk7ascwxb5invec3m6ni999999-png.png" />
+                </div>
+                <div class="text-wrapper-21">Garnir</div>
+              </div>
+              <div class="article-17">
+                <div class="figure-9">
+                  <img class="link-12" src="img/link-gp4y46jxrxj6yhb63nnzloizfq999999-jpeg.png" />
+                </div>
+                <div class="figure-figcaption-7"><div class="text-wrapper-22">Dollma</div></div>
+                <div class="figure-figcaption-8">Speca te mbushur</div>
+              </div>
+              <p class="specialitete-me">
+                <span class="text-wrapper-23">Specialitete </span> <span class="text-wrapper-23">me garnir<br /></span>
+              </p>
+            </div> 
+            <div class="article-18">
+              <div class="figure-2">
+                <img class="link-8" src="img/link-k66tq2kydbcexcs3uemxs3lq3q999999-jpeg.png" />
+              </div>
+              <div class="pul-t-pjekur-me-wrapper">
+                <p class="pul-t-pjekur-me">Pulë të pjekur <br /><br />me prush</p>
+              </div>
+            </div>
+            <div class="article-19">
+              <div class="figure-10">
+                <img class="link-11" src="img/link-cb5c4s5knhs2aw7zulaao4pgoy999999-png-2.png" />
+              </div>
+              <div class="text-wrapper-24">Steka pule në zgar</div>
+            </div>
+            <div class="text-wrapper-25">Specialitete Mishi</div>
+          </div>
+          <div class="div-container">
+            <div class="heading-trending">Gjellërat</div>
+            <div class="article-20">
+              <div class="text-wrapper-26">Gullash</div>
+              <div class="figure-11"></div>
+            </div>
+            <div class="article-21">
+              <div class="figure-figcaption-9"><div class="text-wrapper-27">Grosh</div></div>
+              <div class="figure-12">
+                <img class="link-13" src="img/link-rr2njpiubjojyag7xiscb3hkr4999999-png.png" />
+              </div>
+            </div>
+            <div class="article-22">
+              <div class="overlap-group-4">
+                <div class="jani-gjell-me-patate-wrapper">
+                  <p class="jani-gjell-me-patate">
+                    <span class="text-wrapper-28">Jani<br /><br /></span>
+                    <span class="text-wrapper-29">gjell me patate dhe mish</span>
+                  </p>
+                </div>
+                <div class="figure-13">
+                  <img class="link-14" src="img/link-adg5epdii5rerqcbco2eiguvpm999999-jpg.png" />
+                </div>
+              </div>
+            </div>
+            <div class="article-23">
+              <div class="overlap-5">
+                <div class="figure-14">
+                  <img class="link-15" src="img/link-c7m3i5btw4fxy5weo7iv6prppy999999-png.png" />
+                </div>
+                <div class="text-wrapper-30">Qofte</div>
+              </div>
+            </div>
+            <div class="article-24">
+              <div class="figure-15">
+                <img class="link-16" src="img/link-e7n2grxux3qk5vjvjw4e6s2ybq999999-png-3.png" />
+              </div>
+              <div class="text-wrapper-31">Mish Fshati</div>
+            </div>
+            <div class="article-25">
+              <div class="overlap-6">
+                <div class="figure-16"></div>
+                <div class="grosh-n-tav">
+                  &nbsp;&nbsp;Grosh në <br /><br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; tav
+                </div>
+              </div>
+            </div>
+            <div class="article-26">
+              <div class="figure-4">
+                <img class="link-7" src="img/link-hxdjrs6nf7hb5uapq6smx34cl4999999-jpg-3.png" />
+              </div>
+              <div class="kofsha-pule-garnir-wrapper">
+                <p class="p"><span class="span">Kofsha </span> <span class="span">pule - garnir</span></p>
+              </div>
+            </div>
+          </div>
+          <div class="article-27">
+            <div class="figure-2">
+              <img class="link-17" src="img/link-xrc35fuc4tv35m6uxdewdjeymm999999-jpeg-3.png" />
+            </div>
+            <div class="figure-figcaption-10">
+              <div class="overlap-group-5">
+                <p class="pul-me-garnir-sallat">
+                  <span class="text-wrapper-45">½ </span>
+                  <span class="text-wrapper-45">Pulë me garnir</span>
+                  <span class="text-wrapper-32"
+                    ><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  </span>
+                  <span class="text-wrapper-33">sallat qepë</span>
+                </p>
+                <img class="line-2" src="img/line-6.svg" />
+                <img class="line-3" src="img/line-7.svg" />
+              </div>
+            </div>
+          </div>
+          <div class="text-wrapper-34">Çorba</div>
+          <div class="article-28">
+            <div class="figure-17">
+              <img class="link-18" src="img/link-rr2njpiubjojyag7xiscb3hkr4999999-png-2.png" />
+            </div>
+            <div class="figure-figcaption-11"><div class="text-wrapper-35">Lazanjë</div></div>
+          </div>
+          <div class="div-3">
+            <div class="heading-starters-2">Sallatat</div>
+            <div class="article-29">
+              <div class="figure-2"><img class="link-8" src="img/image.png" /></div>
+              <div class="figure-figcaption-2"><div class="text-wrapper-36">Tarator</div></div>
+            </div>
+            <div class="article-30">
+              <div class="overlap-group-6">
+                <div class="figure-18">
+                  <img class="link-8" src="img/link-tutgfjdh7enjzlucimgs7kmwma999999-png.png" />
+                </div>
+                <div class="figure-figcaption-3">&nbsp;&nbsp; Sallat e përzier</div>
+              </div>
+            </div>
+            <div class="article-wrapper">
+              <div class="article-31">
+                <div class="figure-2">
+                  <img class="link-8" src="img/link-umh2lkwt6gegfypy7cmhfl2imy999999-jpeg-2.png" />
+                </div>
+                <div class="figure-figcaption-2"><div class="text-wrapper-37">Shope</div></div>
+              </div>
+            </div>
+            <div class="article-wrapper-2">
+              <div class="article-31">
+                <div class="figure-19">
+                  <img class="link-19" src="img/link-umh2lkwt6gegfypy7cmhfl2imy999999-jpeg.png" />
+                </div>
+                <p class="heading-starters-3">Speca të pjekura<br/>Djegëse - jo djegëse</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="menu-ditore-wrapper">
+          <p class="menu-ditore">
+            <span class="text-wrapper-38">Menu </span> <span class="text-wrapper-38">ditore</span>
+          </p>
+        </div>
+      </div>
+    </div>
+
+
+    <div style="color: #F77F00; border: 2px;"
+
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="styleguide.css" />
+    <link rel="stylesheet" href="style.css" />
+  <body>
+
+
+    <footer style="background-color: white;" >
+       <div class="orangeline"></div>
+      <p>Author: Hege Refsnes</p>
+      <p><a href="mailto:hege@example.com">hege@example.comm</a></p>
+      <div class="footer">
+        <p class="orari-pun-s-e-h-n-e" >
+          <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Orari Punës: E Hënë - E Shtunë 08:00 - 22:00
+        </p>
+      </div>
+  
+    </footer>
+
+   
+
+
+
+
+
+
+
+
+
+    
+
+  </body>
+</html>
